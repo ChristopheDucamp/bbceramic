@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # un réglage bas pour démonstration. à régler sur un nombre plus élevé
 googleAnalytics = ""
 enableRobotsTXT = true
+publishDir ="dist"
 
 [sitemap]
   changefreq = "monthly"
