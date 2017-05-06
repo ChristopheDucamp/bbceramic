@@ -1,5 +1,5 @@
 title = "Barbara Billoud"
-baseURL = "http://bbceramic.com/"
+baseURL = "https://bbceramic.netlify.com"
 languageCode = "fr-fr"
 theme = "gohugo-theme-ananke"
 #themesDir = "../.."
