@@ -1,8 +1,8 @@
 ---
-title: "Stages"
-description: "Cuisinez la Terre à Auvers-sur-Oise" 
-featured_image: 'images/portrait/Barbara05.jpg'
-weight : 3
+title: Stages
+description: Cuisinez la Terre à Auvers-sur-Oise
+featured_image: images/portrait/Barbara05.jpg
+weight: 3
 ---
 
 ## Céramique & Raku. 

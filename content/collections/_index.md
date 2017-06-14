@@ -1,11 +1,10 @@
 ---
-title: "Collections"
-description: "Du raku et des couleurs. Entre art et utilitaire, entre beauté et utilité. Rakus voyageurs, arbre féérique. Sans oublier quelques recherches sur la lumière."
-featured_image: '/images/atelier/Atelier03.jpg'
-weight : 3
+title: Collections
+description: Du raku et des couleurs. Entre art et utilitaire, entre beauté et utilité.
+  Rakus voyageurs, arbre féérique. Sans oublier quelques recherches sur la lumière.
+featured_image: "/images/atelier/Atelier03.jpg"
+weight: 3
 ---
-
-
 
 <!-- cf params sur https://github.com/liwenyip/hugo-easy-gallery/ -->
 

@@ -1,9 +1,10 @@
 ---
-title: "Parcours"
-description: "Un petit bout de moi..."
-featured_image: '/images/portrait/Barbara01.jpg'
-weight : 40
+title: Parcours
+description: Un petit bout de moi...
+featured_image: "/images/portrait/Barbara01.jpg"
+weight: 40
 ---
+
 Autrichienne d’origine, j'ai 50 ans et suis une maman heureuse de 3 enfants. J'ai toujours entretenu une histoire d'amour avec la terre.
 
 ### 1966 Naissance en Autriche. 

@@ -1,8 +1,9 @@
 ---
-title: "Bonjour. Moi c'est Barbara."
-featured_image: '/images/portrait/Barbara03-2.jpg'
-description: "Petite, je voulais être une artiste..."
+title: Bonjour. Moi c'est Barbara.
+featured_image: "/images/portrait/Barbara03-2.jpg"
+description: Petite, je voulais être une artiste...
 ---
+
 ### ... Maintenant, je suis artiste-céramiste à Auvers-sur-Oise.
 
 Bienvenue dans mon nouveau jardin numérique... Ce site est en reconstruction pour une meilleure lisibilité sur vos mobiles et tablettes, sans oublier plus de souplesse attendue pour me faciliter la vie pour des mises à jour. 

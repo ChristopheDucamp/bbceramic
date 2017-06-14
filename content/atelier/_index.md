@@ -1,8 +1,9 @@
 ---
-title: "Atelier"
-description: "Poussez la porte du portail, entrez par le jardin : je vous fais visiter mes coulisses avec quelques trucs de production."
-featured_image: '/images/atelier/Atelier02.jpg'
-weight : 2
+title: Atelier
+description: 'Poussez la porte du portail, entrez par le jardin : je vous fais visiter
+  mes coulisses avec quelques trucs de production.'
+featured_image: "/images/atelier/Atelier02.jpg"
+weight: 2
 ---
 
 En 2009, je me suis posée à Auvers-sur-Oise, le berceau des impressionnistes. De la fenêtre de mon plan de travail, j'ai la chance d'avoir une vue sur le jardin. Tout y est calme et serein pour trouver l'inspiration au jour le jour. 

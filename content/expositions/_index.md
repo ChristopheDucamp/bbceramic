@@ -1,9 +1,9 @@
 ---
-title: "Actualités"
-date: 2017-03-02T12:00:00-05:00
-featured_image: '/images/jarres/Famille_Jarres03.jpg'
-description : 'Expositions, actualités, animations, événements... une page à compléter'
-weight : 5
+title: Actualités
+date: 2017-03-02 17:00:00 Z
+featured_image: "/images/jarres/Famille_Jarres03.jpg"
+description: Expositions, actualités, animations, événements... une page à compléter
+weight: 5
 ---
 
 En attendant d'organiser cette rubrique sous forme de blog (sans doute quelques articles classés par ordre chronologique inversé avec des catégories...), voici une rapide liste et quelques occasions à venir pour nous retrouver dans "la vraie vie".

@@ -1,11 +1,12 @@
 ---
 title: Contact
 description: Donnez-moi quelques nouvelles
-type: "page"
+type: page
 menu:
   main: {}
-weight : 50
+weight: 50
 ---
+
 {{< figure src="/images/portrait/Barbara04-1.jpg" >}}
 # Tu es étudiant, artiste, potier, collectionneur, galeriste, architecte... Travaillons ensemble ! 
 
